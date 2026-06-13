@@ -83,15 +83,6 @@ I build **high-performance, scalable, and mobile-first web applications** — wi
 
 <div align="center">
 
-## 🌟 Featured Project
-
-### 🛒 Luxee Store
-
-> A modern, performance-focused ecommerce application
-
-</div>
-
-🔗 **Live:** [luxee-store.vercel.app](https://luxee-store.vercel.app)
 
 | Tech                     | Features                                |
 | ------------------------ | --------------------------------------- |
